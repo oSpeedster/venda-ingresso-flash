@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2c01a8ac.css",
+    "main.js": "./static/js/main.c0d401f5.js",
+    "static/media/the-flash-trailer.mp4.mp4": "./static/media/the-flash-trailer.mp4.4059457cee24c5d97257.mp4",
+    "static/media/image.jpg": "./static/media/image.1c87829915a1afb94d04.jpg",
+    "static/media/the-flash-logo.png": "./static/media/the-flash-logo.4e575dbf3f3c731161df.png",
+    "static/media/supergirl.jpeg": "./static/media/supergirl.012eb025e8470e6120b3.jpeg",
+    "static/media/batman.jpeg": "./static/media/batman.c593cd700d58510454cf.jpeg",
+    "static/media/the-flash-banner01.jpg": "./static/media/the-flash-banner01.87c1c78dd3ef2aa08f30.jpg",
+    "static/media/Trindade-The-Flash-2-legadodadc-1024x1024.jpg": "./static/media/Trindade-The-Flash-2-legadodadc-1024x1024.5264ce3880584530525b.jpg",
+    "static/media/barry-allen.jpeg": "./static/media/barry-allen.68e52489c244da18b7c6.jpeg",
+    "static/media/the-flash-1660328936817.jpg": "./static/media/the-flash-1660328936817.067c9b7b65e13a88944f.jpg",
+    "static/media/230425163254-02-the-flash-movie.jpg": "./static/media/230425163254-02-the-flash-movie.43d18932c783c28d57a9.jpg",
+    "static/media/the-flash-1.jpg": "./static/media/the-flash-1.a69a4ad4778520d268cd.jpg",
+    "static/media/sasha-calle-supergirl-900x540.jpg": "./static/media/sasha-calle-supergirl-900x540.9bdb0ce3a125028c3e0d.jpg",
+    "static/media/sasha-cale.jpg": "./static/media/sasha-cale.8b0c286c353e6a7ca30d.jpg",
+    "static/media/michael-keaton.jpg": "./static/media/michael-keaton.1a3c5ca9f23ee9171dce.jpg",
+    "static/media/ezra-miller.jpg": "./static/media/ezra-miller.818bc78312fd8f3ce22b.jpg",
+    "index.html": "./index.html",
+    "main.2c01a8ac.css.map": "./static/css/main.2c01a8ac.css.map",
+    "main.c0d401f5.js.map": "./static/js/main.c0d401f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c01a8ac.css",
+    "static/js/main.c0d401f5.js"
+  ]
+}
