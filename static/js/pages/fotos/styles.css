@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+.galeria {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.fotos {
+    width: auto;
+    height: 300px;
+    background-size: cover;
+    margin: 10px;
+    border: 3px solid white;
+    background-position: center;
+    opacity: 90%;
+}
+
+.fotos:hover {
+    transition: 1s;
+    transform: scale(1.05);
+    opacity: 100%;
+}
+
+#foto1 {
+    background-image: url('../../assets/the-flash-1.jpg');
+}
+
+#foto2 {
+    background-image: url('../../assets/image.jpg');
+}
+
+#foto3 {
+    background-image: url('../../assets/230425163254-02-the-flash-movie.jpg');
+}
+
+#foto4 {
+    background-image: url('../../assets/the-flash-1660328936817.jpg');
+}
+
+#foto5 {
+    background-image: url('../../assets/Trindade-The-Flash-2-legadodadc-1024x1024.jpg');
+}
+
+#foto6 {
+    background-image: url('../../assets/sasha-calle-supergirl-900x540.jpg');
+}
+
+.titulofoto {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    padding: 20px;
+}
+
+@media(max-width: 768px) {
+    .galeria {
+        grid-template-columns: repeat(2, .44fr);
+    }
+
+    .fotos {
+        width: 330px;
+        height: 310px;
+    }
+
+    .titulofoto {
+        font-size: 50px;
+        padding: 20px;
+    }
+
+}
